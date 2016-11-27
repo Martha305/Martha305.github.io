@@ -1,0 +1,18 @@
+.custom-navbar-class {
+	background-color: #FFB6C1;
+}
+
+.nav{
+	height: 30px;
+}
+.twitter-timeline {
+	height: 490px;
+}
+ body {
+ 	background-image: url(./img/cover.jpg)no-repeat center center fixed; 
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+
+ }
